@@ -9,3 +9,5 @@
 
 #3 : 95%
 - done and correct but im not sure about the stopping criterion
+- i realize that i didnt graph the cosine function correctly since its supposed to oscilate oops. baka tanggalin ko nalang graph kung tinatamad ako
+
