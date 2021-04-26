@@ -2,17 +2,13 @@
 
 ### Current Status
 
-#1 : 90%
-- a is done 
-- b is done 
-- c is done
+#1 : 100%
 
-#2 : 95%
-- a and b are done.
+#2 : 80%
+- parang mali errors sa first approach but idk
 
-#3 : 90%
-- done and correct  
-- i realize that i didnt graph the cosine function correctly since its supposed to oscilate oops. baka tanggalin ko nalang graph kung tinatamad ako
+#3 : 100%
+
 
 general: haven't formatted latex 
 
